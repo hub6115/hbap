@@ -51,8 +51,8 @@ body {
     transform: translateX(-50%);
     width: 30vw; 
     height:30vw; /* Maintain square aspect ratio */
-    max-width: 400px; /* Maximum size */
-    max-height: 400px;
+    max-width: 350px; /* Maximum size */
+    max-height: 350px;
     border-radius: 5%;
     object-fit: cover;
     box-shadow: 0 8px 20px rgb(255, 255, 255);
